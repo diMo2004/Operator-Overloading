@@ -1,0 +1,10 @@
+##List of operators which don't work in unary operator overloading:
+-> Divide(/)
+-> Less than(<)
+-> Greater than(>) 
+-> Cin(>>) 
+-> Cout(<<)
+-> Mod(%) 
+-> XOR(^) 
+-> OR(|)
+-> Equals(=)
